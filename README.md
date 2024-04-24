@@ -13,6 +13,21 @@
 
 ## 주차 공부 계획
 
+- 1주차 : 자료구조 - Set
+- 2주차 : 자료구조 - Linked List
+- 3주차 : 자료구조 - Queue
+- 4주차 : 자료구조 - Stack
+- 5주차 : Heap/Priority Queue
+- 6주차 : Sliding Window & Two Pointers
+- 7주차 : Binary Search
+- 8주차 : Tree & Trie
+- 9주차 : Graph
+- 10주차 : DFS & BFS
+- 11주차 : Back Tracking
+- 12주차 : 1D DP
+- 13주차 : 2D DP
+- 14주차 : Greedy Algorithm
+- 15주차 : Bit Manipulation
 
 
 
